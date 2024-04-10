@@ -5,7 +5,7 @@ The purpose for this application is to show how to run convert your python appli
 How to run and call the api
 1. Download or clone the code
 2. Open the code via VS code
-3. Run the app.py file and you get the endpoint to call which is http://127.0.0.1:5000/
+3. Run the app.py file to get the endpoint running as http://127.0.0.1:5000/
 4. To call the /api/echo, you will have to go to postman change the verb from Get to Post, and paste this http://127.0.0.1:5000/api/echo 
 5. Based on step 4, you will have to select body and then raw. This the json below inside the body:
     {
